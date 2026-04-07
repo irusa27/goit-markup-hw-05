@@ -486,13 +486,13 @@ img {
 
 .footer {
   display: flex;
-  justify-content: space-between;
+
   align-items: baseline;
 }
 
-/* .footer-box {
+.footer-box {
   margin-right: 120px;
-} */
+}
 
 .footer-social-text {
   font-weight: 500;
@@ -522,9 +522,9 @@ img {
   background-color: var(--green);
 }
 
-/* .subscribe-form {
+.subscribe-form {
   margin-left: 80px;
-} */
+}
 
 .subscribe-form-description {
   font-weight: 500;
@@ -747,7 +747,7 @@ img {
 }
 
 .contact-form-checkbox-wrapper {
-  margin-top: 12px;
+  margin-top: 20px;
   margin-bottom: 24px;
 }
 
