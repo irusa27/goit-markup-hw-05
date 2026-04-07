@@ -523,7 +523,7 @@ img {
 }
 
 .subscribe-form {
-  margin-left: 80px;
+  margin-left: auto;
 }
 
 .subscribe-form-description {
@@ -747,7 +747,7 @@ img {
 }
 
 .contact-form-checkbox-wrapper {
-  margin-top: 20px;
+  margin-top: 16px;
   margin-bottom: 24px;
 }
 
