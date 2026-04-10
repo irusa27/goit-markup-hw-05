@@ -161,11 +161,6 @@ img {
   bottom: -1px;
 }
 
-/* .nav-link-pseudo:hover::after,
-.nav-link-pseudo:focus::after {
-  background-color: var(--ocean);
-} */
-
 .logo {
   color: var(--navy-blue);
   font-family: var(--second-family);
